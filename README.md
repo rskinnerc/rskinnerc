@@ -2,7 +2,7 @@
 <div id="languajes" align="center">
   
  ## Hello There! I'm Ronald 🤖
-#### I'm a former DVM becoming a Full-Stack Developer from Colombia
+#### I'm a Full-Stack Web Developer and Veterinary Doctor from Colombia with a passion for programming and clean code. A critical-thinking and problem-solving person, willing to improve people's lives by creating engaging applications for individuals and enterprises.
 </div>
 
 <hr>
