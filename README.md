@@ -1,6 +1,8 @@
 
 <div id="languajes" align="center">
-  
+
+  ![linkedin-banner](https://user-images.githubusercontent.com/26911718/183757598-d99266aa-e603-4cdb-b926-9ba09cdd7ab3.jpg)
+
  # Hello There! I'm Ronald 🤖
 ### I'm a Full-Stack Web Developer and Veterinary Doctor from Colombia with a passion for programming and clean code. A critical-thinking and problem-solving person, willing to improve people's lives by creating engaging applications for individuals and enterprises.
 </div>
