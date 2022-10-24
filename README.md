@@ -14,8 +14,7 @@
 - 🔥 Learning Front-End/Back-End technologies everyday
 - Formula 1 Fan 🏁
 - 🦾 Available to hire 
-- Microverse Student
-
+- A Microverse's Alumn. Received my certification as Full-Stack Web Developer.
 
 <hr>
 
