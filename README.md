@@ -11,10 +11,9 @@
 
 ### About me:
 - I ♥ animals and nature.
-- 🔥 Learning Front-End/Back-End technologies everyday
+- 🔥 Learning Front-End/Back-End technologies every day
 - Formula 1 Fan 🏁
-- 🦾 Available to hire 
-- A Microverse's Alumn. Received my certification as Full-Stack Web Developer.
+- A Microverse's Alumn. Received my certification as a Full-Stack Web Developer.
 
 <hr>
 
